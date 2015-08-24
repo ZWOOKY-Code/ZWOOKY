@@ -40,7 +40,7 @@ input.zwooky {
 	outline: 0;
 	color: #505050;
     background-color:rgb(79, 167, 231);
-    text-shadow: rgb(247, 255, 0) 3px 3px 7px;
+    text-shadow: rgb(247, 255, 0) 3px 3px 5px;
         
 	-webkit-appearance: none;
     max-width:400px;min-width:270px;width:270px;
